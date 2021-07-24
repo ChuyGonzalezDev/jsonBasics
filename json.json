@@ -1,0 +1,41 @@
+{
+    "squadName": "Jesús González",
+    "homeTown": "Córdoba, Veracruz",
+    "formed": 2021,
+    "secretBase": "Super team",
+    "active": true,
+    "members": [
+        {
+            "name": "Front-End",
+            "description": "Desarrollador Front",
+            "skills": [
+                "Creación de interfaz de usuario",
+                "Conexión con API´s REST",
+                "Manejo de angular, TypeScript y JavaScript",
+                "DevOps",
+                "Git y GitHub"
+            ]
+        },
+        {
+            "name": "Back-End",
+            "description": "Desarrollador Back",
+            "skills": [
+                "Diseño de BD",
+                "Diseño de API REST",
+                "DevOps",
+                "Git y GitHub"
+            ]
+        },
+        {
+            "name": "Electrónica",
+            "description": "Ingeniero Electronico",
+            "skills": [
+                "Diseño de circuitos",
+                "Diseño de placas",
+                "Microprogramación",
+                "Calibración de sensores",
+                "Comunicación con APIS REST"
+            ]
+        }
+    ]
+}
